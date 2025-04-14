@@ -5,3 +5,5 @@ df.head()
 df.tail()
 df.describe()
 df.info()
+
+df.value_counts('type')
