@@ -1,0 +1,8 @@
+# Ignore .env file
+.env
+
+# Ignore virtual environment folder
+.venv/
+
+# All jpg files
+*.jpg
