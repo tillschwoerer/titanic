@@ -6,3 +6,6 @@
 
 # All jpg files
 *.jpg
+
+# VS code folder
+.vscode/
