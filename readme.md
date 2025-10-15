@@ -12,6 +12,7 @@ git merge
 git reset
 ```
 
-On Wednesday, we carried out a review quiz, to see what we have memorized.
+Today, Wednesday, we cover (1) a review quiz, and (2) collaborative workflows:
 
-Then, we looked into collaborative Worfklows.
+- Forking Workflow (Open Source Project Setting)
+- Feature Branch Workflow (Company Setting)
