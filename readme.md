@@ -2,4 +2,12 @@
 
 This is a demo project for practicing Git and Github
 
-Today we do basic git workflows.
+On Monday we did some basic git workflows.
+
+```
+git add
+git commit
+git branch
+git merge
+git reset
+```
