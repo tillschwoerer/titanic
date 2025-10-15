@@ -9,4 +9,5 @@ git add
 git commit
 git branch
 git merge
+git reset
 ```
