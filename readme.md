@@ -7,5 +7,6 @@ On Monday we did some basic git workflows.
 ```
 git add
 git commit
-git mergee
+git branch
+git merge
 ```
