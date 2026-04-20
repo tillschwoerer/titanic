@@ -10,3 +10,4 @@ df.columns
 sns.histplot(df, x='price')
 sns.scatterplot(df, x='price', y='age')
 
+df.tail()
