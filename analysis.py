@@ -12,4 +12,6 @@ sns.scatterplot(df, x='price', y='age')
 
 df.tail()
 
+print('Hello, Till')
+print('Hello Kiel')
 print('Hello, World!!!!')
