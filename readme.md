@@ -9,7 +9,7 @@ We want to cover the basic git workflow today.
 - `git commit `
 - `git push`
 
-## Collaboration Worflows
+### Collaboration Worflows
 
-- Feature Branch Workflow
-- Forking Workflow
+- Feature Branch Workflow: scenario with write access to central repo
+- Forking Workflow: large open source scenario without write acess
