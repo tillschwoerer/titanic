@@ -17,3 +17,8 @@ We want to cover the basic git workflow today.
 In collaboration work it is possible to run into merge conflicts if multiple people work on the same file (and lines of this file) at the same time.
 
 In this case, we need to manually resolve the conflict - either on Github or locally.
+
+Here are some major comments
+- bla
+- blup
+- blim
