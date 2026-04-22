@@ -13,3 +13,8 @@ We want to cover the basic git workflow today.
 
 - Feature Branch Workflow: scenario with write access to central repo
 - Forking Workflow: large open source scenario without write acess
+
+Here are some major comments
+- bla
+- blup
+- blim
